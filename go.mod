@@ -19,6 +19,7 @@ require (
 	github.com/jbenet/go-context v0.0.0-20150711004518-d14ea06fba99
 	github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63
 	github.com/jesseduffield/gocui v0.0.0-20181209104758-fe55a32c8a4c
+	github.com/jesseduffield/pty v0.0.0-20181218102224-02db52c7e406
 	github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb
 	github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8
 	github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1
@@ -39,7 +40,7 @@ require (
 	github.com/sergi/go-diff v1.0.0
 	github.com/shibukawa/configdir v0.0.0-20170330084843-e180dbdc8da0
 	github.com/sirupsen/logrus v1.0.6
-	github.com/spf13/afero v1.1.1
+	github.com/spf13/afero v1.2.0
 	github.com/spf13/cast v1.2.0
 	github.com/spf13/jwalterweatherman v0.0.0-20180814060501-14d3d4c51834
 	github.com/spf13/pflag v1.0.2
