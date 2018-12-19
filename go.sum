@@ -35,6 +35,8 @@ github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63 h1:tbm85Yu
 github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63/go.mod h1:fNqjRf+4XnTo2PrGN1JRb79b/BeoHwP4lU00f39SQY0=
 github.com/jesseduffield/gocui v0.0.0-20180921065632-03e26ff3f1de h1:fOC4rn3guef0ccanBR1+qjHmVIPo01gmZu1aCQndI/s=
 github.com/jesseduffield/gocui v0.0.0-20180921065632-03e26ff3f1de/go.mod h1:2RtZznzYKt8RLRwvFiSkXjU0Ei8WwHdubgnlaYH47dw=
+github.com/jesseduffield/gocui v0.0.0-20181209104758-fe55a32c8a4c/go.mod h1:2RtZznzYKt8RLRwvFiSkXjU0Ei8WwHdubgnlaYH47dw=
+github.com/jesseduffield/pty v0.0.0-20181218102224-02db52c7e406/go.mod h1:7jlS40+UhOqkZJDIG1B/H21xnuET/+fvbbnHCa8wSIo=
 github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb h1:cFHYEWpQEfzFZVKiKZytCUX4UwQixKSw0kd3WhluPsY=
 github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb/go.mod h1:anMibpZtqNxjDbxrcDEAwSdaJ37vyUeM1f/M4uekib4=
 github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Aowv3l/EQUlocDHW2Cp4G9WJVH7uyH8QFJE=
@@ -78,6 +80,7 @@ github.com/sirupsen/logrus v1.0.6 h1:hcP1GmhGigz/O7h1WVUM5KklBp1JoNS9FggWKdj/j3s
 github.com/sirupsen/logrus v1.0.6/go.mod h1:pMByvHTf9Beacp5x1UXfOR9xyW/9antXMhjMPG0dEzc=
 github.com/spf13/afero v1.1.1 h1:Lt3ihYMlE+lreX1GS4Qw4ZsNpYQLxIXKBTEOXm3nt6I=
 github.com/spf13/afero v1.1.1/go.mod h1:j4pytiNVoe2o6bmDsKpLACNPDBIoEAkihy7loJ1B0CQ=
+github.com/spf13/afero v1.2.0/go.mod h1:9ZxEEn6pIJ8Rxe320qSDBk6AsU0r9pR7Q4OcevTdifk=
 github.com/spf13/cast v1.2.0 h1:HHl1DSRbEQN2i8tJmtS6ViPyHx35+p51amrdsiTCrkg=
 github.com/spf13/cast v1.2.0/go.mod h1:r2rcYCSwa1IExKTDiTfzaxqT2FNHs8hODu4LnUfgKEg=
 github.com/spf13/jwalterweatherman v0.0.0-20180814060501-14d3d4c51834 h1:kJI9pPzfsULT/72wy7mxkRQZPtKWgFdCA2RTGZ4v8/E=
