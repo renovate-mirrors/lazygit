@@ -35,6 +35,8 @@ github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63 h1:tbm85Yu
 github.com/jesseduffield/go-getter v0.0.0-20180822080847-906e15686e63/go.mod h1:fNqjRf+4XnTo2PrGN1JRb79b/BeoHwP4lU00f39SQY0=
 github.com/jesseduffield/gocui v0.0.0-20180921065632-03e26ff3f1de h1:fOC4rn3guef0ccanBR1+qjHmVIPo01gmZu1aCQndI/s=
 github.com/jesseduffield/gocui v0.0.0-20180921065632-03e26ff3f1de/go.mod h1:2RtZznzYKt8RLRwvFiSkXjU0Ei8WwHdubgnlaYH47dw=
+github.com/jesseduffield/gocui v0.3.0/go.mod h1:2RtZznzYKt8RLRwvFiSkXjU0Ei8WwHdubgnlaYH47dw=
+github.com/jesseduffield/pty v0.0.0-20181218102224-02db52c7e406/go.mod h1:7jlS40+UhOqkZJDIG1B/H21xnuET/+fvbbnHCa8wSIo=
 github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb h1:cFHYEWpQEfzFZVKiKZytCUX4UwQixKSw0kd3WhluPsY=
 github.com/jesseduffield/termbox-go v0.0.0-20180919093808-1e272ff78dcb/go.mod h1:anMibpZtqNxjDbxrcDEAwSdaJ37vyUeM1f/M4uekib4=
 github.com/jmespath/go-jmespath v0.0.0-20160202185014-0b12d6b521d8 h1:12VvqtR6Aowv3l/EQUlocDHW2Cp4G9WJVH7uyH8QFJE=
